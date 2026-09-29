@@ -83,5 +83,5 @@ dotnet run -c Release
 ---
 
 ## 👨‍💻 Author
-* **Developer:** [Blake](https://github.com/blakedimm)
+* **Developer:** blakedimm
 * **Focus:** AI Agents, OS Automation & Cognitive Interfaces
